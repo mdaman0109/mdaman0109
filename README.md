@@ -6,7 +6,7 @@
 
 ## 🚀 Currently:
 * Crafting scalable, high-performance web apps at EY GDS
-* Building full-stack side projects with real-world use
+* Building side projects with cool features
 * Leveling up daily with clean code & clean commits
 * Exploring AI integrations in web applications
 
