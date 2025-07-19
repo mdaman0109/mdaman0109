@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Aman!
 
-🎯 **Software Engineer at EY GDS** | Frontend React Specialist with **2+ years** of experience
+🎯 **Software Engineer at EY GDS** | Frontend React Dev with **2+ years** of experience
 
 ⚙️ JavaScript Lover | Git & GitHub Ninja | UI/UX Enthusiast
 
@@ -22,11 +22,11 @@
 
 [Check my pinned repos below! ⬇️]
 
+
 ## 📬 Let's connect:
-
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/md_aman0109)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdaman0109)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-aman0109/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/md_aman0109)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aman.md0109@gmail.com)
 
 ---
 
