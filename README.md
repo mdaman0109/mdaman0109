@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hey there, I'm Aman!
 
-<!--
-**mdaman0109/mdaman0109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Software Engineer at EY GDS** | Frontend React Specialist with **2+ years** of experience
 
-Here are some ideas to get you started:
+⚙️ JavaScript Lover | Git & GitHub Ninja | UI/UX Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently:
+* Crafting scalable, high-performance web apps at EY GDS
+* Building full-stack side projects with real-world use
+* Leveling up daily with clean code & clean commits
+* Exploring AI integrations in web applications
+
+## 🧠 Tech I work with:
+* **React.js**, **Redux Toolkit**, **Tailwind CSS**
+* **Firebase**, **JavaScript (ES6+)**, **HTML/CSS**
+* **Git**, **GitHub**, **Node.js** (learning backend too!)
+
+## 💡 Projects I'm currently working on:
+* 🍿 **MoviesAI** – AI-powered movie recommendation app built with React + Redux
+* 📦 **FoodVilla** – Swiggy-inspired food ordering app with modern UI/UX
+* 📚 **ListenWise** *(coming soon)* 
+
+[Check my pinned repos below! ⬇️]
+
+## 📬 Let's connect:
+
+🕊️ Twitter
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdaman0109)
+
+---
+
+💭 *"Code like poetry — concise, elegant, and expressive."*
+
+🌟 **Open to new opportunities and exciting collaborations!**
