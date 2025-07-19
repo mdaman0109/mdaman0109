@@ -2,7 +2,7 @@
 
 🎯 **Software Engineer at EY GDS** | Frontend React Dev with **2+ years** of experience
 
-⚙️ JavaScript Lover | Git & GitHub Ninja | UI/UX Enthusiast
+⚙️ JavaScript | Git & GitHub | UI/UX Enthusiast
 
 ## 🚀 Currently:
 * Crafting scalable, high-performance web apps at EY GDS
