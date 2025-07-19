@@ -13,7 +13,7 @@
 ## 🧠 Tech I work with:
 * **React.js**, **Redux Toolkit**, **Tailwind CSS**
 * **Firebase**, **JavaScript (ES6+)**, **HTML/CSS**
-* **Git**, **GitHub**, **Node.js** (learning backend too!)
+* **Git**, **GitHub**
 
 ## 💡 Projects I'm currently working on:
 * 🍿 **MoviesAI** – AI-powered movie recommendation app built with React + Redux
@@ -24,7 +24,7 @@
 
 ## 📬 Let's connect:
 
-🕊️ Twitter
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/md_aman0109)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdaman0109)
 
