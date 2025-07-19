@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Aman!
+# 👋 Hey there, I'm Md Aman!
 
 🎯 **Software Engineer at EY GDS** | Frontend React Dev with **2+ years** of experience
 
