@@ -18,7 +18,7 @@
 ## 💡 Projects I'm currently working on:
 * 🍿 **MoviesAI** – AI-powered movie recommendation app built with React + Redux
 * 📦 **FoodVilla** – Swiggy-inspired food ordering app with modern UI/UX
-* 📚 **ListenWise** *(coming soon)* 
+* 📚 **InterviewAI** *(coming soon)* 
 
 [Check my pinned repos below! ⬇️]
 
