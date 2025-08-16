@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Md Aman!
 
-🎯 **Software Engineer at EY GDS** | Frontend React Dev with **2+ years** of experience
+🎯 **Software Engineer at EY GDS** | Frontend React Dev with **2.5+ years** of experience
 
 ⚙️ JavaScript | Git & GitHub | UI/UX Enthusiast
 
