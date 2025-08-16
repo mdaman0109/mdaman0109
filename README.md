@@ -16,7 +16,7 @@
 * **Git**, **GitHub**
 
 ## 💡 Projects I'm currently working on:
-* 🍿 **MoviesAI** – AI-powered movie recommendation app built with React + Redux
+* 🍿 **[MoviesAI]moviesaiapp.web.app** – AI-powered movie recommendation app built with React + Redux
 * 📚 **InterviewAI** - AI-powered question generator based upon the skills mentioned under resume. 
 * 📦 **FoodVilla** – Swiggy-inspired food ordering app with modern UI/UX
 
