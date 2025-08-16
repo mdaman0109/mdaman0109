@@ -15,7 +15,7 @@
 * **Firebase**, **JavaScript (ES6+)**, **HTML/CSS**
 * **Git**, **GitHub**
 
-## 💡 Projects I'm currently working on:
+## 💡 Projects :
 * 🍿 **[MoviesAI](https://moviesaiapp.web.app)** – AI-powered movie recommendation app built with React + Redux
 * 📚 **[InterviewAI](https://interviewaiapx.web.app)** - AI-powered question generator based upon the skills mentioned under resume. 
 * 📦 **FoodVilla** – Swiggy-inspired food ordering app with modern UI/UX
